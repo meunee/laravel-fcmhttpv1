@@ -3,8 +3,8 @@
     "description": "Laravel FCM HTTP v1 API Package",
     "type": "library",
     "require": {
-        "google/apiclient": "2.12.1",
-        "google/cloud-binary-authorization": "0.5.0"
+        "google/apiclient": "^2.12.1",
+        "google/cloud-binary-authorization": "^0.5.0"
     },
     "license": "MIT",
     "autoload": {
