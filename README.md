@@ -13,8 +13,8 @@ FCM_PROJECT_ID="<firebase projectId>"
 FCM_STORAGE_BUCKET="<firebase storageBucket>"
 FCM_MESSAGIN_SENDER_ID="<firebase messagingSenderId>"
 FCM_APP_ID="<firebase appId>"
-FCM_JSON="<name of the json file downloaded at firebase step 7 install>"
-FCM_API_SERVER_KEY=<api server key step 8-9 of firebase install>
+FCM_JSON="<name of the json file>"
+FCM_API_SERVER_KEY="<api server key>"
 ```
 
 ## Usage
